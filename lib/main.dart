@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/h_page.dart';
+import 'conv_page.dart';
 
 ///impooo
 import 'h_page.dart';
@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: "Flutter App",
       theme: ThemeData.dark(),
-      home: const HomePage(),
+      home: ConverterPage(),
     );
   }
 }
