@@ -1,10 +1,5 @@
 import 'package:flutter/material.dart';
 
-// 1. Create a variable that stores the converted currency value
-// 2. Create a function that multiplies the value given by the textfield
-// 3. Store the value in the variable that we created
-// 4.Display the value
-
 class ConverterPage extends StatefulWidget {
   const ConverterPage({super.key});
   @override
